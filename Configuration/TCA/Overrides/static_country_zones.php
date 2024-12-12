@@ -1,5 +1,5 @@
 <?php
-defined('TYPO3_MODE') or die();
+defined('TYPO3') or die();
 
 $sourceField = 'zn_name_en';
 $destField = 'zn_name_sv';

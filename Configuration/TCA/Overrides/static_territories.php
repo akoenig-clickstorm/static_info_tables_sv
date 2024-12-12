@@ -1,5 +1,5 @@
 <?php
-defined('TYPO3_MODE') or die();
+defined('TYPO3') or die();
 
 $sourceField = 'tr_name_en';
 $destField = 'tr_name_sv';
